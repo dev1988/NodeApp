@@ -4,7 +4,7 @@
   "description": "this app is for user registration,loign",
   "main": "server.js",
   "dependencies": {
-    "bcrypt": "^3.0.5",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "connect-flash": "^0.1.1",
     "csrf": "^3.0.6",
